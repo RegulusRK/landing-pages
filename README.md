@@ -1,7 +1,7 @@
-<h1 align="center">Projetos Bonitos</h1>
+<h1 align="center" color="gold" >Meus Projetos</h1>
 
-<p align="center">Explore uma coleção de projetos bonitos neste repositório.</p> <br>
-<p align="center">Apenas alguns projetos para mostrar minha evolução, fique a vontade.</p> <br>
+<p align="center">Explore uma coleção de projetos bonitos neste repositório.</p>
+<p align="center">Apenas alguns projetos para mostrar minha evolução ao decorrer do tempo, fique a vontade e aprecie!.</p> <br>
 
 ## Projetos Disponíveis
 
